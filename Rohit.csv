@@ -1,0 +1,399 @@
+Match Date,Team Name,Opponent Team Name,Batsman,Bolwer,Baller Type,Ball Type,Satus,Venue
+5/2/2019,India,Pakistan,Rohit Sharma,ABC,Faster,Yorker,Stump,Wankhede Stadium
+7/3/2020,India,Pakistan,Rohit Sharma,ABC,Faster,Slower ,LBW,Wankhede Stadium
+5/3/2020,India,South Africa,Rohit Sharma,ABC,Faster,Length Ball,Stump,Wankhede Stadium
+5/3/2020,India,South Africa,Rohit Sharma,ABC,Faster,Yorker,Catch,Wankhede Stadium
+10/3/2020,India,West Indies,Rohit Sharma,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+12/3/2020,India,West Indies,Rohit Sharma,ABC,Faster,Slower ,Stump,Wankhede Stadium
+14/3/2020,India,West Indies,Rohit Sharma,ABC,Faster,Length Ball,Catch,Wankhede Stadium
+12/4/2020,India,West Indies,Rohit Sharma,ABC,Faster,Yorker,LBW,Wankhede Stadium
+14/3/2021,India,England,Rohit Sharma,ABC,Faster,Bouncer,Stump,Wankhede Stadium
+12/5/2020,India,England,Rohit Sharma,ABC,Faster,Slower ,Catch,Wankhede Stadium
+14/3/2022,India,England,Rohit Sharma,ABC,Faster,Length Ball,LBW,Wankhede Stadium
+12/6/2020,India,Bangladesh,Rohit Sharma,ABC,Faster,Yorker,Stump,Wankhede Stadium
+14/3/2021,India,Bangladesh,Rohit Sharma,ABC,Faster,Bouncer,Catch,Wankhede Stadium
+12/7/2020,India,Pakistan,Rohit Sharma,ABC,Faster,Slower ,LBW,Wankhede Stadium
+14/3/2021,India,Pakistan,Rohit Sharma,ABC,Faster,Length Ball,Stump,Wankhede Stadium
+12/8/2021,India,Pakistan,Rohit Sharma,ABC,Faster,Slower ,Catch,Wankhede Stadium
+14/3/2021,India,New zealand,Rohit Sharma,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+12/9/2021,India,New zealand,Rohit Sharma,ABC,Faster,Length Ball,Stump,Wankhede Stadium
+12/10/2021,India,New zealand,Rohit Sharma,ABC,Faster,Yorker,Catch,Wankhede Stadium
+5/2/2019,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+6/5/2019,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+7/3/2020,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+5/3/2020,India,New zealand,Rohit Sharma,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+5/3/2020,India,New zealand,Rohit Sharma,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+10/3/2020,India,Australia,Rohit Sharma,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+12/3/2020,India,Australia,Rohit Sharma,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+14/3/2021,India,Australia,Rohit Sharma,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+12/5/2020,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+14/3/2022,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+12/6/2020,India,Pakistan,Rohit Sharma,ABC,Off Spiner,Googly,Stump,Wankhede Stadium
+14/3/2023,India,Pakistan,Rohit Sharma,ABC,Off Spiner,Carrom Ball,LBW,Wankhede Stadium
+12/7/2020,India,Pakistan,Rohit Sharma,ABC,Off Spiner,Off Spin,Catch,Wankhede Stadium
+14/3/2022,India,South Africa,Rohit Sharma,ABC,Off Spiner,Googly,LBW,Wankhede Stadium
+12/8/2020,India,South Africa,Rohit Sharma,ABC,Off Spiner,Carrom Ball,Catch,Wankhede Stadium
+14/3/2022,India,South Africa,Rohit Sharma,ABC,Off Spiner,Off Spin,Stump,Wankhede Stadium
+12/9/2021,India,Australia,Rohit Sharma,ABC,Off Spiner,Googly,Catch,Wankhede Stadium
+14/3/2022,India,Australia,Rohit Sharma,ABC,On Spiner,Carrom Ball,Stump,Wankhede Stadium
+12/11/2021,India,Australia,Rohit Sharma,ABC,On Spiner,Off Spin,Catch,Wankhede Stadium
+12/12/2021,India,Pakistan,Rohit Sharma,ABC,On Spiner,Googly,LBW,Wankhede Stadium
+5/2/2019,India,Pakistan,Rohit Sharma,ABC,On Spiner,Carrom Ball,LBW,Wankhede Stadium
+6/5/2019,India,Pakistan,Rohit Sharma,ABC,On Spiner,Off Spin,Stump,Wankhede Stadium
+7/3/2020,India,Bangladesh,Rohit Sharma,ABC,On Spiner,Googly,LBW,Wankhede Stadium
+5/3/2020,India,Bangladesh,Rohit Sharma,ABC,On Spiner,Carrom Ball,Stump,Wankhede Stadium
+5/3/2020,India,Afghanistan,Rohit Sharma,ABC,On Spiner,Off Spin,Catch,Wankhede Stadium
+10/3/2020,India,Afghanistan,Rohit Sharma,ABC,On Spiner,Googly,Stump,Wankhede Stadium
+12/3/2020,India,Afghanistan,Rohit Sharma,ABC,On Spiner,Carrom Ball,Catch,Wankhede Stadium
+14/3/2022,India,Afghanistan,Rohit Sharma,ABC,On Spiner,Off Spin,Catch,Wankhede Stadium
+12/6/2020,India,Afghanistan,Rohit Sharma,ABC,On Spiner,Off Spin,Stump,Wankhede Stadium
+14/3/2023,India,New zealand,Rohit Sharma,ABC,Faster,Yorker,Stump,Eden Garden
+12/11/2021,India,England,Rohit Sharma,ABC,Medium Faster,Length Ball,Catch,Eden Garden
+12/12/2021,India,West Indies,Rohit Sharma,ABC,Faster,Slower ,Catch,Eden Garden
+5/2/2019,India,Australia,Rohit Sharma,ABC,Off Spiner,Off Spin,LBW,Eden Garden
+6/5/2019,India,South Africa,Rohit Sharma,ABC,On Spiner,Carrom Ball,LBW,Eden Garden
+7/3/2020,India,Pakistan,Rohit Sharma,ABC,Faster,Yorker,Stump,Eden Garden
+5/3/2020,India,Afghanistan,Rohit Sharma,ABC,Faster,Slower ,Catch,Eden Garden
+5/3/2020,India,New zealand,Rohit Sharma,ABC,Medium Faster,Yorker,Stump,Eden Garden
+10/3/2020,India,England,Rohit Sharma,ABC,Faster,Bouncer,Catch,Eden Garden
+12/3/2020,India,Bangladesh,Rohit Sharma,ABC,Off Spiner,Off Spin,Catch,Eden Garden
+14/3/2023,India,New zealand,Rohit Sharma,ABC,Medium Faster,Yorker,Stump,Eden Garden
+12/7/2020,India,England,Rohit Sharma,ABC,On Spiner,Googly,Stump,Eden Garden
+14/3/2024,India,West Indies,Rohit Sharma,ABC,On Spiner,on Spin,Stump,Narendra Modi Stadium
+12/11/2021,India,Australia,Rohit Sharma,ABC,On Spiner,on Spin,Catch,Narendra Modi Stadium
+12/12/2021,India,South Africa,Rohit Sharma,ABC,Faster,Yorker,Stump,Narendra Modi Stadium
+5/2/2019,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Slower ,Stump,Narendra Modi Stadium
+6/5/2019,India,Afghanistan,Rohit Sharma,ABC,Faster,Bouncer,Catch,Narendra Modi Stadium
+7/3/2020,India,New zealand,Rohit Sharma,ABC,Off Spiner,Carrom Ball,Catch,Narendra Modi Stadium
+5/3/2020,India,England,Rohit Sharma,ABC,On Spiner,Googly,Stump,Narendra Modi Stadium
+5/3/2020,India,Bangladesh,Rohit Sharma,ABC,Faster,Slower ,LBW,Narendra Modi Stadium
+10/3/2020,India,New zealand,Rohit Sharma,ABC,Faster,Slower ,LBW,Narendra Modi Stadium
+12/3/2020,India,England,Rohit Sharma,ABC,Medium Faster,Yorker,Stump,Narendra Modi Stadium
+14/3/2024,India,West Indies,Rohit Sharma,ABC,Faster,Bouncer,Catch,Narendra Modi Stadium
+12/8/2020,India,Australia,Rohit Sharma,ABC,Off Spiner,Off Spin,Catch,Narendra Modi Stadium
+14/3/2025,India,South Africa,Rohit Sharma,ABC,Medium Faster,Length Ball,Stump,Narendra Modi Stadium
+12/11/2021,India,Pakistan,Rohit Sharma,ABC,On Spiner,Carrom Ball,Stump,Narendra Modi Stadium
+12/12/2021,India,Afghanistan,Rohit Sharma,ABC,On Spiner,Googly,Catch,Narendra Modi Stadium
+5/2/2019,India,New zealand,Rohit Sharma,ABC,Faster,Length Ball,Catch,D.Y.Patil
+6/5/2019,India,England,Rohit Sharma,ABC,Medium Faster,Slower ,Catch,D.Y.Patil
+7/3/2020,India,Bangladesh,Rohit Sharma,ABC,Faster,Yorker,Stump,D.Y.Patil
+5/3/2020,India,New zealand,Rohit Sharma,ABC,Faster,Yorker,Stump,D.Y.Patil
+5/3/2020,India,England,Rohit Sharma,ABC,Off Spiner,Off Spin,Stump,D.Y.Patil
+10/3/2020,India,West Indies,Rohit Sharma,ABC,Faster,Bouncer,Catch,Lord Stadium
+12/3/2020,India,Australia,Rohit Sharma,ABC,Off Spiner,Carrom Ball,Stump,Lord Stadium
+14/3/2025,India,South Africa,Rohit Sharma,ABC,Off Spiner,Carrom Ball,Stump,Lord Stadium
+12/9/2020,India,Pakistan,Rohit Sharma,ABC,Off Spiner,Googly,Catch,Lord Stadium
+14/3/2026,India,Afghanistan,Rohit Sharma,ABC,On Spiner,on Spin,Catch,Lord Stadium
+12/11/2021,India,New zealand,Rohit Sharma,ABC,Medium Faster,Yorker,Stump,Lord Stadium
+12/12/2021,India,England,Rohit Sharma,ABC,Medium Faster,Slower ,Catch,Lord Stadium
+5/2/2019,India,Bangladesh,Rohit Sharma,ABC,On Spiner,on Spin,Catch,Lord Stadium
+6/5/2019,India,New zealand,Rohit Sharma,ABC,Off Spiner,Googly,Stump,Lord Stadium
+7/3/2020,India,England,Rohit Sharma,ABC,Faster,Yorker,Stump,Sharjah Stadium
+5/3/2020,India,West Indies,Rohit Sharma,ABC,Medium Faster,Slower ,Stump,Sharjah Stadium
+5/3/2020,India,Australia,Rohit Sharma,ABC,Off Spiner,Off Spin,Stump,Sharjah Stadium
+10/3/2020,India,South Africa,Rohit Sharma,ABC,On Spiner,on Spin,Catch,Sharjah Stadium
+12/3/2020,India,Pakistan,Rohit Sharma,ABC,Faster,Slower ,Catch,Sharjah Stadium
+14/3/2026,India,Afghanistan,Rohit Sharma,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+12/10/2020,India,New zealand,Rohit Sharma,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+14/3/2027,India,England,Rohit Sharma,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+12/11/2021,India,Bangladesh,Rohit Sharma,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+5/2/2019,India,Pakistan,Rohit Sharma,ABC,Faster,Yorker,Stump,Wankhede Stadium
+6/5/2019,India,Pakistan,Rohit Sharma,ABC,Faster,Bouncer,Catch,Wankhede Stadium
+7/3/2020,India,Pakistan,Virat Kholi,ABC,Faster,Slower ,LBW,Arun Jaitley Stadium
+5/3/2020,India,South Africa,Virat Kholi,ABC,Faster,Length Ball,Stump,Arun Jaitley Stadium
+5/3/2020,India,South Africa,Virat Kholi,ABC,Faster,Yorker,Catch,Arun Jaitley Stadium
+10/3/2020,India,West Indies,Virat Kholi,ABC,Faster,Bouncer,LBW,Arun Jaitley Stadium
+12/3/2020,India,West Indies,Virat Kholi,ABC,Faster,Slower ,Stump,Arun Jaitley Stadium
+14/3/2020,India,West Indies,Virat Kholi,ABC,Faster,Length Ball,Catch,Arun Jaitley Stadium
+12/4/2020,India,West Indies,Virat Kholi,ABC,Faster,Yorker,LBW,Arun Jaitley Stadium
+14/3/2021,India,England,Virat Kholi,ABC,Faster,Bouncer,Stump,Arun Jaitley Stadium
+12/5/2020,India,England,Virat Kholi,ABC,Faster,Slower ,Catch,Arun Jaitley Stadium
+14/3/2022,India,England,Virat Kholi,ABC,Faster,Length Ball,LBW,Arun Jaitley Stadium
+12/6/2020,India,Bangladesh,Virat Kholi,ABC,Faster,Yorker,Stump,Arun Jaitley Stadium
+14/3/2021,India,Bangladesh,Virat Kholi,ABC,Faster,Bouncer,Catch,Arun Jaitley Stadium
+12/7/2020,India,Pakistan,Virat Kholi,ABC,Faster,Slower ,LBW,Wankhede Stadium
+14/3/2021,India,Pakistan,Virat Kholi,ABC,Faster,Length Ball,Stump,Wankhede Stadium
+12/8/2021,India,Pakistan,Virat Kholi,ABC,Faster,Yorker,Catch,Wankhede Stadium
+14/3/2021,India,New zealand,Virat Kholi,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+12/9/2021,India,New zealand,Virat Kholi,ABC,Faster,Length Ball,Stump,Wankhede Stadium
+12/10/2021,India,New zealand,Virat Kholi,ABC,Faster,Yorker,Catch,Wankhede Stadium
+5/2/2019,India,Pakistan,Virat Kholi,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+6/5/2019,India,Pakistan,Virat Kholi,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+7/3/2020,India,Pakistan,Virat Kholi,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+5/3/2020,India,New zealand,Virat Kholi,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+5/3/2020,India,New zealand,Virat Kholi,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+10/3/2020,India,Australia,Virat Kholi,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+12/3/2020,India,Australia,Virat Kholi,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+14/3/2021,India,Australia,Virat Kholi,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+12/5/2020,India,Pakistan,Virat Kholi,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+14/3/2022,India,Pakistan,Virat Kholi,ABC,Medium Faster,Bouncer,LBW,Wankhede Stadium
+12/6/2020,India,Pakistan,Virat Kholi,ABC,Off Spiner,Googly,Stump,Wankhede Stadium
+14/3/2023,India,Pakistan,Virat Kholi,ABC,Off Spiner,Carrom Ball,LBW,Wankhede Stadium
+12/7/2020,India,Pakistan,Virat Kholi,ABC,Off Spiner,Off Spin,Catch,Wankhede Stadium
+14/3/2022,India,South Africa,Virat Kholi,ABC,Off Spiner,Googly,LBW,Wankhede Stadium
+12/8/2020,India,South Africa,Virat Kholi,ABC,Off Spiner,Carrom Ball,Catch,Wankhede Stadium
+14/3/2022,India,South Africa,Virat Kholi,ABC,Off Spiner,Off Spin,Stump,Wankhede Stadium
+12/9/2021,India,Australia,Virat Kholi,ABC,Off Spiner,Googly,Catch,Wankhede Stadium
+14/3/2022,India,Australia,Virat Kholi,ABC,On Spiner,Carrom Ball,Stump,Wankhede Stadium
+12/11/2021,India,Australia,Virat Kholi,ABC,On Spiner,Off Spin,Catch,Melbourne Cricket Ground
+12/12/2021,India,Pakistan,Virat Kholi,ABC,On Spiner,Googly,LBW,Melbourne Cricket Ground
+5/2/2019,India,Pakistan,Virat Kholi,ABC,On Spiner,Carrom Ball,LBW,Melbourne Cricket Ground
+6/5/2019,India,Pakistan,Virat Kholi,ABC,On Spiner,Off Spin,Stump,Melbourne Cricket Ground
+7/3/2020,India,Bangladesh,Virat Kholi,ABC,On Spiner,Googly,LBW,Melbourne Cricket Ground
+5/3/2020,India,Bangladesh,Virat Kholi,ABC,On Spiner,Carrom Ball,Stump,Melbourne Cricket Ground
+5/3/2020,India,Afghanistan,Virat Kholi,ABC,On Spiner,Off Spin,Catch,Melbourne Cricket Ground
+10/3/2020,India,Afghanistan,Virat Kholi,ABC,On Spiner,Googly,Stump,Wankhede Stadium
+12/3/2020,India,Afghanistan,Virat Kholi,ABC,On Spiner,Carrom Ball,Catch,Wankhede Stadium
+14/3/2022,India,Afghanistan,Virat Kholi,ABC,On Spiner,Off Spin,Catch,Wankhede Stadium
+12/6/2020,India,Afghanistan,Virat Kholi,ABC,On Spiner,Off Spin,Stump,Wankhede Stadium
+14/3/2023,India,New zealand,Virat Kholi,ABC,Faster,Yorker,Stump,Eden Garden
+12/11/2021,India,England,Virat Kholi,ABC,Medium Faster,Length Ball,Catch,Eden Garden
+12/12/2021,India,West Indies,Virat Kholi,ABC,Faster,Slower ,Catch,Eden Garden
+5/2/2019,India,Australia,Virat Kholi,ABC,Off Spiner,Off Spin,LBW,Eden Garden
+6/5/2019,India,South Africa,Virat Kholi,ABC,On Spiner,Carrom Ball,LBW,Eden Garden
+7/3/2020,India,Pakistan,Virat Kholi,ABC,Faster,Yorker,Stump,Eden Garden
+5/3/2020,India,Afghanistan,Virat Kholi,ABC,Faster,Slower ,Catch,Eden Garden
+5/3/2020,India,New zealand,Virat Kholi,ABC,Medium Faster,Yorker,Stump,Eden Garden
+10/3/2020,India,England,Virat Kholi,ABC,Faster,Bouncer,Catch,Eden Garden
+12/3/2020,India,Bangladesh,Virat Kholi,ABC,Off Spiner,Off Spin,Catch,Eden Garden
+14/3/2023,India,New zealand,Virat Kholi,ABC,Medium Faster,Yorker,Stump,Eden Garden
+12/7/2020,India,England,Virat Kholi,ABC,On Spiner,Googly,Stump,Eden Garden
+14/3/2024,India,West Indies,Virat Kholi,ABC,On Spiner,on Spin,Stump,Narendra Modi Stadium
+12/11/2021,India,Australia,Virat Kholi,ABC,On Spiner,on Spin,Catch,Narendra Modi Stadium
+12/12/2021,India,South Africa,Virat Kholi,ABC,Faster,Yorker,Stump,Narendra Modi Stadium
+5/2/2019,India,Pakistan,Virat Kholi,ABC,Medium Faster,Slower ,Stump,Narendra Modi Stadium
+6/5/2019,India,Afghanistan,Virat Kholi,ABC,Faster,Bouncer,Catch,Narendra Modi Stadium
+7/3/2020,India,New zealand,Virat Kholi,ABC,Off Spiner,Carrom Ball,Catch,Narendra Modi Stadium
+5/3/2020,India,England,Virat Kholi,ABC,On Spiner,Googly,Stump,Narendra Modi Stadium
+5/3/2020,India,Bangladesh,Virat Kholi,ABC,Faster,Slower ,LBW,Narendra Modi Stadium
+10/3/2020,India,New zealand,Virat Kholi,ABC,Faster,Slower ,LBW,Narendra Modi Stadium
+12/3/2020,India,England,Virat Kholi,ABC,Medium Faster,Yorker,Stump,Narendra Modi Stadium
+14/3/2024,India,West Indies,Virat Kholi,ABC,Faster,Bouncer,Catch,Narendra Modi Stadium
+12/8/2020,India,Australia,Virat Kholi,ABC,Off Spiner,Off Spin,Catch,Narendra Modi Stadium
+14/3/2025,India,South Africa,Virat Kholi,ABC,Medium Faster,Length Ball,Stump,Narendra Modi Stadium
+12/11/2021,India,Pakistan,Virat Kholi,ABC,On Spiner,Carrom Ball,Stump,Narendra Modi Stadium
+12/12/2021,India,Afghanistan,Virat Kholi,ABC,On Spiner,Googly,Catch,Narendra Modi Stadium
+5/2/2019,India,New zealand,Virat Kholi,ABC,Faster,Length Ball,Catch,D.Y.Patil
+6/5/2019,India,England,Virat Kholi,ABC,Medium Faster,Slower ,Catch,D.Y.Patil
+7/3/2020,India,Bangladesh,Virat Kholi,ABC,Faster,Yorker,Stump,D.Y.Patil
+5/3/2020,India,New zealand,Virat Kholi,ABC,Faster,Yorker,Stump,D.Y.Patil
+5/3/2020,India,England,Virat Kholi,ABC,Off Spiner,Off Spin,Stump,D.Y.Patil
+10/3/2020,India,West Indies,Virat Kholi,ABC,Faster,Bouncer,Catch,Lord Stadium
+12/3/2020,India,Australia,Virat Kholi,ABC,Off Spiner,Carrom Ball,Stump,Lord Stadium
+14/3/2025,India,South Africa,Virat Kholi,ABC,Off Spiner,Carrom Ball,Stump,Lord Stadium
+12/9/2020,India,Pakistan,Virat Kholi,ABC,Off Spiner,Googly,Catch,Lord Stadium
+14/3/2026,India,Afghanistan,Virat Kholi,ABC,On Spiner,on Spin,Catch,Lord Stadium
+12/11/2021,India,New zealand,Virat Kholi,ABC,Medium Faster,Yorker,Stump,Lord Stadium
+12/12/2021,India,England,Virat Kholi,ABC,Medium Faster,Slower ,Catch,Lord Stadium
+5/2/2019,India,Bangladesh,Virat Kholi,ABC,On Spiner,on Spin,Catch,Lord Stadium
+6/5/2019,India,New zealand,Virat Kholi,ABC,Off Spiner,Googly,Stump,Lord Stadium
+7/3/2020,India,England,Virat Kholi,ABC,Faster,Yorker,Stump,Sharjah Stadium
+5/3/2020,India,West Indies,Virat Kholi,ABC,Medium Faster,Slower ,Stump,Sharjah Stadium
+5/3/2020,India,Australia,Virat Kholi,ABC,Off Spiner,Off Spin,Stump,Sharjah Stadium
+10/3/2020,India,South Africa,Virat Kholi,ABC,On Spiner,on Spin,Catch,Sharjah Stadium
+12/3/2020,India,Pakistan,Virat Kholi,ABC,Faster,Slower ,Catch,Sharjah Stadium
+14/3/2026,India,Afghanistan,Virat Kholi,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+12/10/2020,India,New zealand,Virat Kholi,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+14/3/2027,India,England,Virat Kholi,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+12/11/2021,India,Bangladesh,Virat Kholi,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+5/2/2019,India,New zealand,KL Rahul,ABC,Faster,Yorker,Stump,Arun Jaitley Stadium
+6/5/2019,India,New zealand,KL Rahul,ABC,Medium Faster,Length Ball,Catch,Arun Jaitley Stadium
+7/3/2020,India,England,KL Rahul,ABC,Faster,Slower ,Catch,Arun Jaitley Stadium
+5/3/2020,India,England,KL Rahul,ABC,Off Spiner,Off Spin,LBW,Arun Jaitley Stadium
+5/3/2020,India,Bangladesh,KL Rahul,ABC,On Spiner,Carrom Ball,LBW,Arun Jaitley Stadium
+10/3/2020,India,Bangladesh,KL Rahul,ABC,Faster,Yorker,LBW,Arun Jaitley Stadium
+12/3/2020,India,Pakistan,KL Rahul,ABC,Faster,Slower ,Catch,Arun Jaitley Stadium
+14/3/2025,India,Pakistan,KL Rahul,ABC,Medium Faster,Yorker,Catch,Arun Jaitley Stadium
+12/9/2020,India,Pakistan,KL Rahul,ABC,Faster,Bouncer,Catch,Wankhede Stadium
+14/3/2026,India,South Africa,KL Rahul,ABC,Off Spiner,Off Spin,Stump,Wankhede Stadium
+12/11/2021,India,South Africa,KL Rahul,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+12/12/2021,India,Afghanistan,KL Rahul,ABC,On Spiner,Googly,Catch,Wankhede Stadium
+5/2/2019,India,Afghanistan,KL Rahul,ABC,On Spiner,on Spin,LBW,Wankhede Stadium
+6/5/2019,India,Afghanistan,KL Rahul,ABC,On Spiner,on Spin,LBW,Wankhede Stadium
+7/3/2020,India,West Indies,KL Rahul,ABC,Faster,Yorker,LBW,Wankhede Stadium
+5/3/2020,India,West Indies,KL Rahul,ABC,Medium Faster,Slower ,Catch,Wankhede Stadium
+5/3/2020,India,West Indies,KL Rahul,ABC,Faster,Bouncer,Catch,Wankhede Stadium
+10/3/2020,India,Australia,KL Rahul,ABC,Off Spiner,Carrom Ball,Catch,Wankhede Stadium
+12/3/2020,India,Australia,KL Rahul,ABC,On Spiner,Googly,Stump,Wankhede Stadium
+14/3/2026,India,Australia,KL Rahul,ABC,Faster,Slower ,Catch,Wankhede Stadium
+12/10/2020,India,New zealand,KL Rahul,ABC,Faster,Slower ,Catch,Wankhede Stadium
+14/3/2027,India,New zealand,KL Rahul,ABC,Medium Faster,Yorker,LBW,Wankhede Stadium
+12/11/2021,India,England,KL Rahul,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+12/12/2021,India,England,KL Rahul,ABC,Off Spiner,Off Spin,LBW,Wankhede Stadium
+5/2/2019,India,Bangladesh,KL Rahul,ABC,Medium Faster,Length Ball,Catch,Wankhede Stadium
+6/5/2019,India,Bangladesh,KL Rahul,ABC,On Spiner,Carrom Ball,Catch,Wankhede Stadium
+7/3/2020,India,Pakistan,KL Rahul,ABC,On Spiner,Googly,Catch,Wankhede Stadium
+5/3/2020,India,Pakistan,KL Rahul,ABC,Faster,Length Ball,Stump,Wankhede Stadium
+5/3/2020,India,Pakistan,KL Rahul,ABC,Medium Faster,Slower ,Catch,Wankhede Stadium
+10/3/2020,India,South Africa,KL Rahul,ABC,Faster,Yorker,Catch,Wankhede Stadium
+12/3/2020,India,South Africa,KL Rahul,ABC,Faster,Yorker,LBW,Wankhede Stadium
+14/3/2027,India,Afghanistan,KL Rahul,ABC,Off Spiner,Off Spin,LBW,Wankhede Stadium
+12/11/2020,India,Afghanistan,KL Rahul,ABC,Faster,Bouncer,LBW,Melbourne Cricket Ground
+14/3/2028,India,Afghanistan,KL Rahul,ABC,Off Spiner,Carrom Ball,Catch,Melbourne Cricket Ground
+12/12/2021,India,West Indies,KL Rahul,ABC,Off Spiner,Carrom Ball,Catch,Melbourne Cricket Ground
+5/2/2019,India,West Indies,KL Rahul,ABC,Off Spiner,Googly,Catch,Melbourne Cricket Ground
+6/5/2019,India,West Indies,KL Rahul,ABC,On Spiner,on Spin,Stump,Melbourne Cricket Ground
+7/3/2020,India,Australia,KL Rahul,ABC,Medium Faster,Yorker,Catch,Melbourne Cricket Ground
+5/3/2020,India,Australia,KL Rahul,ABC,Medium Faster,Slower ,Stump,Melbourne Cricket Ground
+5/3/2020,India,Australia,KL Rahul,ABC,On Spiner,on Spin,Catch,Wankhede Stadium
+10/3/2020,India,New zealand,KL Rahul,ABC,Off Spiner,Googly,LBW,Wankhede Stadium
+12/3/2020,India,New zealand,KL Rahul,ABC,Faster,Yorker,LBW,Wankhede Stadium
+14/3/2026,India,England,KL Rahul,ABC,Medium Faster,Slower ,Stump,Wankhede Stadium
+12/10/2020,India,England,KL Rahul,ABC,Off Spiner,Off Spin,Catch,Eden Garden
+14/3/2027,India,Bangladesh,KL Rahul,ABC,On Spiner,on Spin,Stump,Eden Garden
+12/11/2021,India,Bangladesh,KL Rahul,ABC,Faster,Slower ,Catch,Eden Garden
+12/12/2021,India,Pakistan,KL Rahul,ABC,Medium Faster,Slower ,LBW,Eden Garden
+5/2/2019,India,Pakistan,KL Rahul,ABC,Medium Faster,Slower ,LBW,Eden Garden
+6/5/2019,India,Pakistan,KL Rahul,ABC,Medium Faster,Slower ,Stump,Eden Garden
+7/3/2020,India,South Africa,KL Rahul,ABC,Medium Faster,Slower ,Catch,Eden Garden
+5/3/2020,India,South Africa,KL Rahul,ABC,Faster,Yorker,Stump,Eden Garden
+5/3/2020,India,Afghanistan,Virat Kholi,ABC,Medium Faster,Length Ball,Catch,Eden Garden
+10/3/2020,India,Afghanistan,Virat Kholi,ABC,Faster,Slower ,LBW,Eden Garden
+12/3/2020,India,Afghanistan,Virat Kholi,ABC,Off Spiner,Off Spin,LBW,Eden Garden
+14/3/2027,India,West Indies,Virat Kholi,ABC,On Spiner,Carrom Ball,Stump,Eden Garden
+12/11/2020,India,West Indies,Virat Kholi,ABC,Faster,Yorker,Catch,Narendra Modi Stadium
+14/3/2028,India,West Indies,Virat Kholi,ABC,Faster,Slower ,Stump,Narendra Modi Stadium
+12/11/2021,India,Australia,Virat Kholi,ABC,Medium Faster,Yorker,Catch,Narendra Modi Stadium
+12/12/2021,India,Australia,Virat Kholi,ABC,Faster,Bouncer,LBW,Narendra Modi Stadium
+5/2/2019,India,Australia,Virat Kholi,ABC,Off Spiner,Off Spin,LBW,Narendra Modi Stadium
+6/5/2019,India,New zealand,Virat Kholi,ABC,Medium Faster,Yorker,Stump,Narendra Modi Stadium
+7/3/2020,India,New zealand,Virat Kholi,ABC,On Spiner,Googly,Catch,Narendra Modi Stadium
+5/3/2020,India,England,Virat Kholi,ABC,On Spiner,on Spin,Stump,Narendra Modi Stadium
+5/3/2020,India,England,Virat Kholi,ABC,On Spiner,on Spin,Catch,Narendra Modi Stadium
+10/3/2020,India,Bangladesh,Virat Kholi,ABC,Faster,Yorker,LBW,Narendra Modi Stadium
+12/3/2020,India,Bangladesh,Virat Kholi,ABC,Medium Faster,Slower ,LBW,Narendra Modi Stadium
+14/3/2028,India,Pakistan,Virat Kholi,ABC,Faster,Bouncer,Stump,Narendra Modi Stadium
+12/12/2020,India,Pakistan,Virat Kholi,ABC,Off Spiner,Carrom Ball,Catch,Narendra Modi Stadium
+14/3/2029,India,Pakistan,Virat Kholi,ABC,On Spiner,Googly,Stump,Narendra Modi Stadium
+12/13/2021,India,South Africa,Virat Kholi,ABC,Faster,Slower ,Catch,Narendra Modi Stadium
+5/2/2019,India,South Africa,Virat Kholi,ABC,Faster,Slower ,LBW,D.Y.Patil
+6/5/2019,India,Afghanistan,Virat Kholi,ABC,Medium Faster,Yorker,LBW,D.Y.Patil
+7/3/2020,India,Afghanistan,Virat Kholi,ABC,Faster,Bouncer,Stump,D.Y.Patil
+5/3/2020,India,Afghanistan,Virat Kholi,ABC,Off Spiner,Off Spin,Stump,D.Y.Patil
+5/3/2020,India,West Indies,Virat Kholi,ABC,Medium Faster,Length Ball,Catch,D.Y.Patil
+10/3/2020,India,West Indies,Virat Kholi,ABC,On Spiner,Carrom Ball,LBW,Lord Stadium
+12/3/2020,India,West Indies,Virat Kholi,ABC,On Spiner,Googly,Catch,Lord Stadium
+14/3/2027,India,Australia,Virat Kholi,ABC,Faster,Length Ball,Stump,Lord Stadium
+12/11/2020,India,Australia,Virat Kholi,ABC,Medium Faster,Slower ,Stump,Lord Stadium
+14/3/2028,India,Australia,Virat Kholi,ABC,Faster,Yorker,Catch,Lord Stadium
+12/11/2021,India,New zealand,Virat Kholi,ABC,Faster,Yorker,LBW,Lord Stadium
+12/12/2021,India,New zealand,Hardik Pandya,ABC,Off Spiner,Off Spin,LBW,Lord Stadium
+5/2/2019,India,England,Hardik Pandya,ABC,Faster,Bouncer,Catch,Lord Stadium
+6/5/2019,India,England,Hardik Pandya,ABC,Off Spiner,Carrom Ball,Stump,Lord Stadium
+7/3/2020,India,Bangladesh,Hardik Pandya,ABC,Off Spiner,Carrom Ball,Stump,Sharjah Stadium
+5/3/2020,India,Bangladesh,Hardik Pandya,ABC,Off Spiner,Googly,Catch,Sharjah Stadium
+5/3/2020,India,Pakistan,Hardik Pandya,ABC,On Spiner,on Spin,LBW,Sharjah Stadium
+10/3/2020,India,Pakistan,Hardik Pandya,ABC,Medium Faster,Yorker,LBW,Sharjah Stadium
+12/3/2020,India,Pakistan,Hardik Pandya,ABC,Medium Faster,Slower ,Catch,Sharjah Stadium
+14/3/2028,India,South Africa,Hardik Pandya,ABC,On Spiner,on Spin,Stump,Sharjah Stadium
+12/12/2020,India,South Africa,Hardik Pandya,ABC,Off Spiner,Googly,Stump,Sharjah Stadium
+14/3/2029,India,Afghanistan,Hardik Pandya,ABC,Faster,Yorker,Catch,Sharjah Stadium
+12/11/2021,India,Afghanistan,Hardik Pandya,ABC,Medium Faster,Slower ,LBW,Sharjah Stadium
+12/12/2021,India,Afghanistan,Hardik Pandya,ABC,Off Spiner,Off Spin,LBW,Arun Jaitley Stadium
+5/2/2019,India,West Indies,Hardik Pandya,ABC,On Spiner,on Spin,Catch,Arun Jaitley Stadium
+6/5/2019,India,West Indies,Hardik Pandya,ABC,Faster,Slower ,Stump,Arun Jaitley Stadium
+7/3/2020,India,West Indies,Hardik Pandya,ABC,Medium Faster,Slower ,Stump,Arun Jaitley Stadium
+5/3/2020,India,Australia,Hardik Pandya,ABC,Medium Faster,Slower ,Catch,Arun Jaitley Stadium
+5/3/2020,India,Australia,Hardik Pandya,ABC,Medium Faster,Slower ,LBW,Arun Jaitley Stadium
+10/3/2020,India,Australia,Hardik Pandya,ABC,Medium Faster,Slower ,LBW,Arun Jaitley Stadium
+12/3/2020,India,New zealand,Hardik Pandya,ABC,Faster,Yorker,Catch,Arun Jaitley Stadium
+14/3/2029,India,New zealand,Rohit Sharma,ABC,Medium Faster,Length Ball,Stump,Wankhede Stadium
+12/13/2020,India,England,Rohit Sharma,ABC,Faster,Slower ,Stump,Wankhede Stadium
+14/3/2030,India,England,Rohit Sharma,ABC,Off Spiner,Off Spin,Catch,Wankhede Stadium
+12/14/2021,India,Bangladesh,Rohit Sharma,ABC,On Spiner,Carrom Ball,LBW,Wankhede Stadium
+5/2/2019,India,Bangladesh,Rohit Sharma,ABC,Faster,Yorker,LBW,Wankhede Stadium
+6/5/2019,India,Pakistan,Rohit Sharma,ABC,Faster,Slower ,Catch,Wankhede Stadium
+7/3/2020,India,Pakistan,Rohit Sharma,ABC,Medium Faster,Yorker,Stump,Wankhede Stadium
+5/3/2020,India,Pakistan,Rohit Sharma,ABC,Faster,Bouncer,Stump,Wankhede Stadium
+5/3/2020,India,South Africa,Rohit Sharma,ABC,Off Spiner,Off Spin,Catch,Wankhede Stadium
+10/3/2020,India,South Africa,Rohit Sharma,ABC,Medium Faster,Yorker,LBW,Wankhede Stadium
+12/3/2020,India,Afghanistan,Virat Kholi,ABC,On Spiner,Googly,LBW,Wankhede Stadium
+14/3/2028,India,Afghanistan,Virat Kholi,ABC,On Spiner,on Spin,Catch,Wankhede Stadium
+12/12/2020,India,Afghanistan,Virat Kholi,ABC,On Spiner,on Spin,Stump,Wankhede Stadium
+14/3/2029,India,West Indies,Virat Kholi,ABC,Faster,Yorker,Stump,Wankhede Stadium
+12/11/2021,India,West Indies,Virat Kholi,ABC,Medium Faster,Slower ,Catch,Wankhede Stadium
+12/12/2021,India,West Indies,Virat Kholi,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+5/2/2019,India,Australia,Virat Kholi,ABC,Off Spiner,Carrom Ball,LBW,Wankhede Stadium
+6/5/2019,India,Australia,Virat Kholi,ABC,On Spiner,Googly,Catch,Wankhede Stadium
+7/3/2020,India,Australia,Virat Kholi,ABC,Faster,Slower ,Stump,Wankhede Stadium
+5/3/2020,India,New zealand,Virat Kholi,ABC,Faster,Slower ,Stump,Wankhede Stadium
+5/3/2020,India,New zealand,KL Rahul,ABC,Medium Faster,Yorker,Catch,Wankhede Stadium
+10/3/2020,India,England,KL Rahul,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+12/3/2020,India,England,KL Rahul,ABC,Off Spiner,Off Spin,LBW,Wankhede Stadium
+14/3/2029,India,Bangladesh,KL Rahul,ABC,Medium Faster,Length Ball,Catch,Wankhede Stadium
+12/13/2020,India,Bangladesh,KL Rahul,ABC,On Spiner,Carrom Ball,Stump,Melbourne Cricket Ground
+14/3/2030,India,Pakistan,KL Rahul,ABC,On Spiner,Googly,Stump,Melbourne Cricket Ground
+12/11/2021,India,Pakistan,KL Rahul,ABC,Faster,Length Ball,Catch,Melbourne Cricket Ground
+12/12/2021,India,Pakistan,Hardik Pandya,ABC,Medium Faster,Slower ,LBW,Melbourne Cricket Ground
+5/2/2019,India,South Africa,Hardik Pandya,ABC,Faster,Yorker,LBW,Melbourne Cricket Ground
+6/5/2019,India,South Africa,Hardik Pandya,ABC,Faster,Yorker,Catch,Melbourne Cricket Ground
+7/3/2020,India,Afghanistan,Hardik Pandya,ABC,Off Spiner,Off Spin,Stump,Melbourne Cricket Ground
+5/3/2020,India,Afghanistan,Hardik Pandya,ABC,Faster,Bouncer,Stump,Wankhede Stadium
+5/3/2020,India,Afghanistan,Hardik Pandya,ABC,Off Spiner,Carrom Ball,Catch,Wankhede Stadium
+10/3/2020,India,West Indies,Hardik Pandya,ABC,Off Spiner,Carrom Ball,LBW,Wankhede Stadium
+12/3/2020,India,West Indies,Hardik Pandya,ABC,Off Spiner,Googly,LBW,Wankhede Stadium
+14/3/2030,India,West Indies,Hardik Pandya,ABC,On Spiner,on Spin,Catch,Eden Garden
+12/14/2020,India,Australia,Hardik Pandya,ABC,Medium Faster,Yorker,Stump,Eden Garden
+14/3/2031,India,Australia,Hardik Pandya,ABC,Medium Faster,Slower ,Stump,Eden Garden
+12/15/2021,India,Australia,Hardik Pandya,ABC,On Spiner,on Spin,Catch,Eden Garden
+5/2/2019,India,New zealand,Sachin Tendulkar,ABC,Off Spiner,Googly,LBW,Eden Garden
+6/5/2019,India,New zealand,Sachin Tendulkar,ABC,Faster,Yorker,LBW,Eden Garden
+7/3/2020,India,England,Sachin Tendulkar,ABC,Medium Faster,Slower ,Catch,Eden Garden
+5/3/2020,India,England,Sachin Tendulkar,ABC,Off Spiner,Off Spin,Stump,Eden Garden
+5/3/2020,India,Bangladesh,Sachin Tendulkar,ABC,On Spiner,on Spin,Stump,Eden Garden
+10/3/2020,India,Bangladesh,Sachin Tendulkar,ABC,Faster,Slower ,Catch,Eden Garden
+12/3/2020,India,Pakistan,Sachin Tendulkar,ABC,Medium Faster,Slower ,LBW,Eden Garden
+14/3/2029,India,Pakistan,Sachin Tendulkar,ABC,Medium Faster,Slower ,LBW,Eden Garden
+12/13/2020,India,Pakistan,Sachin Tendulkar,ABC,Medium Faster,Slower ,Catch,Narendra Modi Stadium
+14/3/2030,India,South Africa,Sachin Tendulkar,ABC,Medium Faster,Slower ,Stump,Narendra Modi Stadium
+12/11/2021,India,South Africa,Sachin Tendulkar,ABC,Faster,Yorker,Stump,Narendra Modi Stadium
+12/12/2021,India,Afghanistan,Sachin Tendulkar,ABC,Medium Faster,Length Ball,Catch,Narendra Modi Stadium
+5/2/2019,India,Afghanistan,Sachin Tendulkar,ABC,Faster,Slower ,LBW,Narendra Modi Stadium
+6/5/2019,India,Afghanistan,Sachin Tendulkar,ABC,Off Spiner,Off Spin,LBW,Narendra Modi Stadium
+7/3/2020,India,West Indies,Sachin Tendulkar,ABC,On Spiner,Carrom Ball,Catch,Narendra Modi Stadium
+5/3/2020,India,West Indies,Sachin Tendulkar,ABC,Faster,Yorker,Stump,Narendra Modi Stadium
+5/3/2020,India,West Indies,Sachin Tendulkar,ABC,Faster,Slower ,Stump,Narendra Modi Stadium
+10/3/2020,India,Australia,Sachin Tendulkar,ABC,Medium Faster,Yorker,Catch,Narendra Modi Stadium
+12/3/2020,India,Australia,Sachin Tendulkar,ABC,Faster,Bouncer,Catch,Narendra Modi Stadium
+14/3/2030,India,Australia,Sachin Tendulkar,ABC,Off Spiner,Off Spin,Catch,Narendra Modi Stadium
+12/14/2020,India,New zealand,Sachin Tendulkar,ABC,Medium Faster,Yorker,Stump,Narendra Modi Stadium
+14/3/2031,India,New zealand,Sachin Tendulkar,ABC,On Spiner,Googly,LBW,Narendra Modi Stadium
+12/11/2021,India,England,Sachin Tendulkar,ABC,On Spiner,on Spin,Catch,Narendra Modi Stadium
+12/12/2021,India,England,Sachin Tendulkar,ABC,On Spiner,on Spin,Stump,D.Y.Patil
+5/2/2019,India,Bangladesh,Sachin Tendulkar,ABC,Faster,Yorker,LBW,D.Y.Patil
+6/5/2019,India,Bangladesh,Sachin Tendulkar,ABC,Medium Faster,Slower ,Catch,D.Y.Patil
+7/3/2020,India,Pakistan,Sachin Tendulkar,ABC,Faster,Bouncer,Stump,D.Y.Patil
+5/3/2020,India,Pakistan,Sachin Tendulkar,ABC,Off Spiner,Carrom Ball,LBW,D.Y.Patil
+5/3/2020,India,Pakistan,Sachin Tendulkar,ABC,On Spiner,Googly,Catch,Lord Stadium
+10/3/2020,India,South Africa,Sachin Tendulkar,ABC,Faster,Slower ,Stump,Lord Stadium
+12/3/2020,India,South Africa,Sachin Tendulkar,ABC,Faster,Slower ,LBW,Lord Stadium
+14/3/2031,India,Afghanistan,Sachin Tendulkar,ABC,Medium Faster,Yorker,Catch,Lord Stadium
+12/15/2020,India,Afghanistan,Sachin Tendulkar,ABC,Faster,Bouncer,Stump,Lord Stadium
+14/3/2032,India,Afghanistan,Sachin Tendulkar,ABC,Off Spiner,Off Spin,LBW,Lord Stadium
+12/16/2021,India,West Indies,Sachin Tendulkar,ABC,Medium Faster,Length Ball,Catch,Lord Stadium
+5/2/2019,India,West Indies,Sachin Tendulkar,ABC,On Spiner,Carrom Ball,Stump,Lord Stadium
+6/5/2019,India,West Indies,Sachin Tendulkar,ABC,On Spiner,Googly,LBW,Lord Stadium
+7/3/2020,India,Australia,Sachin Tendulkar,ABC,Faster,Length Ball,Catch,Wankhede Stadium
+5/3/2020,India,Australia,Sachin Tendulkar,ABC,Medium Faster,Slower ,Stump,Wankhede Stadium
+5/3/2020,India,Australia,Sachin Tendulkar,ABC,Faster,Yorker,LBW,Wankhede Stadium
+10/3/2020,India,New zealand,Sachin Tendulkar,ABC,Faster,Yorker,Catch,Wankhede Stadium
+12/3/2020,India,New zealand,Sachin Tendulkar,ABC,Off Spiner,Off Spin,Stump,Wankhede Stadium
+14/3/2030,India,England,Sachin Tendulkar,ABC,Faster,Bouncer,LBW,Wankhede Stadium
+12/14/2020,India,England,Sachin Tendulkar,ABC,Off Spiner,Carrom Ball,Catch,Wankhede Stadium
+14/3/2031,India,Bangladesh,Sachin Tendulkar,ABC,Off Spiner,Carrom Ball,Stump,Wankhede Stadium
+12/11/2021,India,Bangladesh,Sachin Tendulkar,ABC,Off Spiner,Googly,LBW,Wankhede Stadium
+12/12/2021,India,Pakistan,Sachin Tendulkar,ABC,On Spiner,on Spin,Catch,Arun Jaitley Stadium
+5/2/2019,India,Pakistan,Sachin Tendulkar,ABC,Medium Faster,Yorker,Stump,Arun Jaitley Stadium
+6/5/2019,India,Pakistan,Sachin Tendulkar,ABC,Medium Faster,Slower ,LBW,Arun Jaitley Stadium
+7/3/2020,India,South Africa,Sachin Tendulkar,ABC,On Spiner,on Spin,Catch,Arun Jaitley Stadium
+5/3/2020,India,South Africa,Sachin Tendulkar,ABC,Off Spiner,Googly,Stump,Arun Jaitley Stadium
+5/3/2020,India,Afghanistan,Sachin Tendulkar,ABC,Faster,Yorker,LBW,Arun Jaitley Stadium
+10/3/2020,India,Afghanistan,Sachin Tendulkar,ABC,Medium Faster,Slower ,Catch,Arun Jaitley Stadium
+12/3/2020,India,Afghanistan,Sachin Tendulkar,ABC,Off Spiner,Off Spin,Stump,Arun Jaitley Stadium
+14/3/2031,India,West Indies,Sachin Tendulkar,ABC,On Spiner,on Spin,LBW,Wankhede Stadium
+12/15/2020,India,West Indies,Sachin Tendulkar,ABC,Faster,Slower ,Catch,Wankhede Stadium
+14/3/2032,India,West Indies,Sachin Tendulkar,ABC,Medium Faster,Slower ,Stump,Wankhede Stadium
+12/11/2021,India,Australia,Sachin Tendulkar,ABC,Medium Faster,Slower ,LBW,Wankhede Stadium
+12/12/2021,India,Australia,Sachin Tendulkar,ABC,Medium Faster,Slower ,Catch,Wankhede Stadium
+5/2/2019,India,Australia,Sachin Tendulkar,ABC,Medium Faster,Slower ,Stump,Wankhede Stadium
+6/5/2019,India,New zealand,Sachin Tendulkar,ABC,Faster,Yorker,LBW,Wankhede Stadium
